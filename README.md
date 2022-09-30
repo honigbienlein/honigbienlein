@@ -1,7 +1,8 @@
 --- "The wanderer must not only see the path, but also the horizon beyond." (Kemal Atatürk) ---
 
 Hi there 👋
-I'm Melis.
+
+I'm Melis:bee:
 
 I already have 6 years of professional experience in IT. In small to medium sized companies, up to large corporations, I fulfilled various roles in different areas. These included development, consulting, testing and the role of product owner.
 

@@ -14,7 +14,7 @@ Now I am looking forward to new experiences in this area.
 - 🌱 I’m currently learning fullstack web development
 - 📫 How to reach me: https://www.linkedin.com/in/melis-augsburger/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a dog trainer :dog:
+- ⚡ Fun fact: I'm a dog trainer, too :dog:
 
 <!--
 **honigbienlein/honigbienlein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
